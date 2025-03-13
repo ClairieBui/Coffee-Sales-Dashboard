@@ -8,7 +8,7 @@ This project leverages Power BI to analyze coffee sales trends and product perfo
 - Visualization & Insights – Create interactive charts, tables, and graphs to highlight key trends and patterns.
 
 # Dashboard
-![image](https://github.com/user-attachments/assets/54adbc1e-0a20-406b-bec1-fcbeadd90ba3)
+![image](https://github.com/user-attachments/assets/0a7bce64-d9e0-4f89-ae35-b39a5bf5ab64)
 This Power BI dashboard provides a comprehensive analysis of sales trends throughout 2023.
 
 Key Insights:
