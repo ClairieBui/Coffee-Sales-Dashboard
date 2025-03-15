@@ -1,15 +1,55 @@
-# Coffee-Sales-Dashboard
-# Overview
-This project leverages Power BI to analyze coffee sales trends and product performance in 2023, providing recommending operational improvements to optimize coffee sales performance.
+☕ Coffee Sales Analysis - Power BI Dashboard
+# 📌 Project Overview
+This Power BI project analyzes sales data for a coffee shop to provide actionable insights into various aspects of sales performance. The dashboard helps the business track total sales, order trends, and product performance across different locations and time periods.
 
-# Process
-- Import Data – Load dataset from CSV files into Power BI.
-- Data Cleaning & Transformation – Handle missing values, format inconsistencies, and structural adjustments to ensure data accuracy.
-- Visualization & Insights – Create interactive charts, tables, and graphs to highlight key trends and patterns.
+# ❓ Problem Statement
+The coffee shop is struggling to understand its sales performance. The key areas of concern include:
+- **Total Sales Analysis** - Understanding revenue trends.
+- **Total Order Analysis** - Monitoring order frequency.
+- **Total Quantity Sold Analysis** - Evaluating product demand.
+- **Sales Analysis by Weekdays and Weekends** - Comparing weekday vs. weekend performance.
+- **Sales Analysis by Store Location** - Identifying top-performing locations.
+- **Daily Sales with Average Line** - Tracking sales trends over time.
+- **Sales Analysis by Product Category** - Assessing which product categories drive the most revenue.
+- **Top 10 Products by Sales** - Identifying the best-selling items.
+- **Sales Analysis by Days and Hours** - Understanding peak sales periods.
 
-# Dashboard
+The goal is to analyze these aspects to **identify key sales drivers and areas for improvement.**
+
+# 🛠️ Skills Demonstrated
+- __Power BI__ for data visualization, modeling, and analysis.
+
+#📊 Dataset Information
+•	Source: Excel file containing sales data.
+•	Key Columns:
+  o	Date
+  o	Product
+  o	Location
+  o	Sales Amount
+  o	Quantity Sold
+  o	Order ID
+
+# 📐 Data Modeling
+Below is the star schema model used in this project:
+![](images/Data_Model.png)
+
+## 📈 **Analysis & Visualizations**
+The Power BI dashboard consists of various visual elements to display insights:
+
+1. **Total Sales Analysis** - *Card & Line Chart showing sales trends.*
+2. **Total Order Analysis** - *Card & Line Chart tracking order volume.*
+3. **Total Quantity Sold Analysis** - *Card & Line Chart for total product sales.*
+4. **Sales Analysis by Weekdays and Weekends** - *Pie Chart to compare sales on different days.*
+5. **Sales Analysis by Store Location** - *Bar Chart visualizing sales performance per location.*
+6. **Daily Sales with Average Line** - *Column Chart with an average trend line.*
+7. **Sales Analysis by Product Category** - *Bar Chart displaying category-wise revenue distribution.*
+8. **Top 10 Products by Sales** - *Bar Chart showing the best-selling items.*
+9. **Sales Analysis by Days and Hours** - *Matrix Chart analyzing sales peaks across different days and hours.*
+10. **Calendar Map for Monthly & Day-wise Analysis** - *Filtering sales data using a __calendar map__.*
+11. **Tooltip in Calendar Map & Days-Hours Chart** - *Interactive tooltips for more detailed insights.*
+
+
 ![image](https://github.com/user-attachments/assets/0a7bce64-d9e0-4f89-ae35-b39a5bf5ab64)
-This Power BI dashboard provides a comprehensive analysis of sales trends throughout 2023.
 
 Key Insights:
 - Consistent Growth: Total sales, total orders, and total quantity sold show a significant month-over-month increase, except in February, where all metrics slightly declined by approximately 5.3% to 6.8%.
@@ -34,5 +74,17 @@ By Product Type: Brewed Chai Tea ranks highest with 9,306 units sold, whereas Gr
 
 These insights help businesses understand product demand, optimize inventory, and refine pricing strategies to maximize revenue.
 
-# License
-This project is intended for educational use only and is not for commercial purposes. Redistribution or commercial use is not allowed without prior authorization.
+## 📌 **Conclusion & Recommendations**
+- **High Sales Days**: Sales peak during weekends and early morning hours.
+- **Top Products**: The best-selling products are cappuccinos and espresso-based drinks.
+- **Store Performance**: Some locations outperform others due to high foot traffic.
+- **Promotional Strategy**: Offering discounts on slow-selling products can help balance demand.
+
+## 🚀 **How to Use This Dashboard**
+1. **Download the `.pbix` file** from the repository.
+2. **Open Power BI Desktop** and load the file.
+3. Use filters and slicers to explore insights interactively.
+
+---
+🔗 *For further improvements, feel free to fork this project and contribute!* 🚀
+
