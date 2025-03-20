@@ -1,4 +1,4 @@
-☕ Coffee Sales Analysis - Power BI Dashboard
+# ☕ **Coffee Sales Analysis - Power BI Dashboard**
 # 📌 Project Overview
 This Power BI project analyzes sales data for a coffee shop to provide actionable insights into various aspects of sales performance. The dashboard helps the business track total sales, order trends, and product performance across different locations and time periods.
 
