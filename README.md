@@ -31,7 +31,8 @@ The goal is to analyze these aspects to **identify key sales drivers and areas f
 
 # 📐 Data Modeling
 Below is the star schema model used in this project:
-![](images/Data_Model.png)
+
+![image](https://github.com/user-attachments/assets/f4c99fde-2bb5-4ea6-9357-57c983fc5f46)
 
 ## 📈 **Analysis & Visualizations**
 The Power BI dashboard consists of various visual elements to display insights:
