@@ -50,8 +50,7 @@ The Power BI dashboard consists of various visual elements to display insights:
 10. **Calendar Map for Monthly & Day-wise Analysis** - *Filtering sales data using a __calendar map__.*
 11. **Tooltip in Calendar Map & Days-Hours Chart** - *Interactive tooltips for more detailed insights.*
 
-
-![image](https://github.com/user-attachments/assets/0a7bce64-d9e0-4f89-ae35-b39a5bf5ab64)
+![image](https://github.com/user-attachments/assets/5e1804a6-fd79-423d-8aed-93fa734b26af)
 
 Key Insights:
 - Consistent Growth: Total sales, total orders, and total quantity sold show a significant month-over-month increase, except in February, where all metrics slightly declined by approximately 5.3% to 6.8%.
