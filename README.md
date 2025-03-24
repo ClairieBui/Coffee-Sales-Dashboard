@@ -30,9 +30,10 @@ The goal is to analyze these aspects to **identify key sales drivers and areas f
   o	Order ID
 
 # 📐 Data Modeling
-Below is the star schema model used in this project:
 
-![image](https://github.com/user-attachments/assets/f4c99fde-2bb5-4ea6-9357-57c983fc5f46)
+To optimize performance and structure, **Power Query** was used to transform the raw dataset into a **star schema model**:
+
+![image](https://github.com/user-attachments/assets/db098cb4-b71a-4764-8e6b-f0b6506a30f1)
 
 ## 📈 **Analysis & Visualizations**
 The Power BI dashboard consists of various visual elements to display insights:
