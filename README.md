@@ -76,10 +76,19 @@ By Product Type: Brewed Chai Tea ranks highest with 9,306 units sold, whereas Gr
 These insights help businesses understand product demand, optimize inventory, and refine pricing strategies to maximize revenue.
 
 ## 📌 **Conclusion & Recommendations**
+
+**Conclusions**:
 - **High Sales Days**: Sales peak during weekends and early morning hours.
 - **Top Products**: The best-selling products are cappuccinos and espresso-based drinks.
 - **Store Performance**: Some locations outperform others due to high foot traffic.
 - **Promotional Strategy**: Offering discounts on slow-selling products can help balance demand.
+
+**Recommendations**:
+- **Maximize Peak Sales**: Extend weekend hours, offer morning discounts, and implement loyalty rewards for espresso-based drinks.
+
+- **Optimize Store Performance**: Analyze low-performing locations, adjust staffing, and use digital marketing to boost foot traffic.
+
+- **Balance Demand with Promotions**: Offer discounts on slow-selling items, introduce seasonal drinks, and create bundle deals.
 
 ## 🚀 **How to Use This Dashboard**
 1. **Download the `.pbix` file** from the repository.
