@@ -16,10 +16,11 @@ The coffee shop is struggling to understand its sales performance. The key areas
 
 The goal is to analyze these aspects to **identify key sales drivers and areas for improvement.**
 
-# 🛠️ Skills Demonstrated
+## 🛠️ **Skills Demonstrated**
 - __Power BI__ for data visualization, modeling, and analysis.
 
-#📊 Dataset Information
+## 🔄 **Data Transformation**
+•	 To optimize performance and structure, **Power Query** was used to transform the raw dataset into a **Snowflake schema**
 •	Source: Excel file containing sales data.
 •	Key Columns:
   o	Date
@@ -31,7 +32,7 @@ The goal is to analyze these aspects to **identify key sales drivers and areas f
 
 # 📐 Data Modeling
 
-To optimize performance and structure, **Power Query** was used to transform the raw dataset into a **Snowflake Schema**:
+Below is the **Snowflake schema** used in this project:
 
 ![image](https://github.com/user-attachments/assets/db098cb4-b71a-4764-8e6b-f0b6506a30f1)
 
