@@ -20,8 +20,10 @@ The goal is to analyze these aspects to **identify key sales drivers and areas f
 - __Power BI__ for data visualization, modeling, and analysis.
 
 ## 🔄 **Data Transformation**
-•	 To optimize performance and structure, **Power Query** was used to transform the raw dataset into a **Snowflake schema**
+•	To optimize performance and structure, **Power Query** was used to transform the raw dataset into a **Snowflake schema**
+
 •	Source: Excel file containing sales data.
+
 •	Key Columns:
   o	Date
   o	Product
