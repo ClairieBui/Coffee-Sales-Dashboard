@@ -31,7 +31,7 @@ The goal is to analyze these aspects to **identify key sales drivers and areas f
 
 # 📐 Data Modeling
 
-To optimize performance and structure, **Power Query** was used to transform the raw dataset into a **star schema model**:
+To optimize performance and structure, **Power Query** was used to transform the raw dataset into a **Snowflake Schema**:
 
 ![image](https://github.com/user-attachments/assets/db098cb4-b71a-4764-8e6b-f0b6506a30f1)
 
