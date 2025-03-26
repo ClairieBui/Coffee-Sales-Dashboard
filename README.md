@@ -53,7 +53,7 @@ The Power BI dashboard consists of various visual elements to display insights:
 10. **Calendar Map for Monthly & Day-wise Analysis** - *Filtering sales data using a __calendar map__.*
 11. **Tooltip in Calendar Map & Days-Hours Chart** - *Interactive tooltips for more detailed insights.*
 
-![image](https://github.com/user-attachments/assets/5e1804a6-fd79-423d-8aed-93fa734b26af)
+![image](https://github.com/user-attachments/assets/dd2d85b8-db6c-495f-9926-50e5d016d4e6)
 
 Key Insights:
 - Consistent Growth: Total sales, total orders, and total quantity sold show a significant month-over-month increase, except in February, where all metrics slightly declined by approximately 5.3% to 6.8%.
@@ -62,7 +62,7 @@ Key Insights:
 - End-of-Month Sales Boost: Sales tend to be higher than the average during the middle and end of each month, suggesting possible payday-related purchase patterns.
 - Store Performance: Sales across all three store locations (Astoria, Hell's Kitchen, and Lower Manhattan) exhibit steady growth throughout the year. However, February sees a slight decline in sales across all locations, consistent with the overall monthly trend.
 
-![image](https://github.com/user-attachments/assets/08bd9db9-2290-47e0-bfc8-f43f126aff8c)
+![image](https://github.com/user-attachments/assets/452510e7-771f-41b8-8a26-b5413050032b)
 
 The dashboard provides an in-depth analysis of product performance throughout 2023.
 
